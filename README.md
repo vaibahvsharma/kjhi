@@ -1,6 +1,6 @@
 # DevOps Pipeline <a href="https://en.wikipedia.org/wiki/DevOps" ><img src="Images/devops.jpg" width="50" height=30></a>
 - ## Background
-   Before getting started, [click here](https://www.jenkins.io/) if you      want to know what is <b>CI/CD</b> <br>
+   Before getting started, [click here](https://github.com/RitheeshBaradwaj/JenkinsPipeline/tree/master/Introduction) if you      want to know what is <b>CI/CD</b> <br>
    CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development. The main        concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. CI/CD pipelines are designed    for businesses that want to improve applications frequently and require a reliable delivery process. The added effort to standardize    builds, develop tests, and automate deployments is the manufacturing process for deploying code changes.
    <br>
    <img src="Images/DevOpsImage.jpg" width="500" height="300">
@@ -33,7 +33,7 @@
 
 - ## Source Code Reposirtory
     <a href="https://github.com/" ><img src="Images/gb.jpg" width="35" height=35></a>
-    [GitHub](https://en.wikipedia.org/wiki/GitHub), is a United States-based global company that provides hosting for software development version control using [Git.](https://git-scm.com/) In order to learn more about Git, Please visit my repository [GitLearn.](https://git-scm.com/) I used GitHub to upload my repository.
+    [GitHub](https://en.wikipedia.org/wiki/GitHub), is a United States-based global company that provides hosting for software development version control using [Git.](https://git-scm.com/) In order to learn more about Git, Please visit my repository [GitLearn.](https://ritheeshbaradwaj.github.io/GitLearn/) I used GitHub to upload my repository, you can use other tools as well GitLab, BitBucket, SourceFrog...
 
     <img src="Images/github.jpeg" width="400" height=200>
 
@@ -107,4 +107,4 @@
     - [Jenkins](https://www.vogella.com/tutorials/Jenkins/article.html)
     - [JFrog Artifactory](https://www.youtube.com/watch?v=WrKEozY9efQ)
 - ## Thank you :D
-    I have used many online resources while creating the application and I would like to thank them. As I'm also in a learning stage, I would like to know your feedback and suggestions as well. So please contact me at: vaibhavsharma78077@gmail.com. 
+    I have used many online resources while creating the application and I would like to thank them. As I'm also in a learning stage, I would like to know your feedback and suggestions as well. So please contact me at: ritheeshbaradwaj@gmail.com. 
